@@ -18,11 +18,8 @@ Java Development Kit (JDK) 8 or higher
 
 
 Copy code
-git clone https://github.com/yourusername/percentage-calculator.git
-Navigate to the project directory:
-sh
-Copy code
-cd percentage-calculator
+[git clone https://github.com/yourusername/percentage-calculator.git](https://github.com/HugarPavan-15/PercentageCalculator)
+
 
 Code Structure
 Main.java: Entry point of the application. Initializes and displays the GUI.
