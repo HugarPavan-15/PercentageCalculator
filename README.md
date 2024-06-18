@@ -18,7 +18,7 @@ Java Development Kit (JDK) 8 or higher
 
 
 Copy code
-[git clone https://github.com/yourusername/percentage-calculator.git](https://github.com/HugarPavan-15/PercentageCalculator)
+https://github.com/HugarPavan-15/PercentageCalculator
 
 
 Code Structure
